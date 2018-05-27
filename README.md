@@ -12,13 +12,13 @@
         <tr>
             <td>输入</td>
             <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/blob/master/gt1.JPG" ></a></td>
-            <td></a></td>
+            <td>原始图像，缺陷所处像素与周围像素非常接近</td>
         </tr>
  
  
  <tr>
 <td>裁剪</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/blob/master/1.BMP"></td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/blob/master/1.jpg"></td>
 <td>裁掉了部分背景，保留导光板部分。（当时手动裁了）</td>
 </tr>
 
