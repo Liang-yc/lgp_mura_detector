@@ -24,13 +24,13 @@
 
  <tr>
 <td>直方图均衡化</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/均衡化.jpg"></td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E5%9D%87%E8%A1%A1%E5%8C%96.jpg"></td>
 <td></td>
 </tr>
 
 <tr>
 <td>二值化</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/二值化.jpg"></td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E4%BA%8C%E5%80%BC%E5%8C%96.jpg"></td>
 <td></td>
 </tr>
 
@@ -41,8 +41,14 @@
 </tr>
 
 <tr>
-<td>膨胀腐蚀</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/膨胀腐蚀.jpg"></td>
+<td>连通区域检测</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E8%BF%9E%E9%80%9A%E5%9B%BE.jpg"></td>
+<td></td>
+</tr>
+
+<tr>
+<td>输出</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C.jpg"></td>
 <td></td>
 </tr>
 
