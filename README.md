@@ -8,12 +8,44 @@
 该方法包含以下几个步骤：
 <br><br>
 <table>
-<thead><tr><th> </th><th>图像</th>说明</tr></thead>
+<thead><tr><th> </th><th>图像</th><th>说明</th></tr></thead>
         <tr>
             <td>输入</td>
             <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
             <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
         </tr>
+ 
+ 
+ <tr>
+<td>裁剪</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/均衡化.jpg"></td>
+<td></td>
+</tr>
+
+ <tr>
+<td>直方图均衡化</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/均衡化.jpg"></td>
+<td></td>
+</tr>
+
+<tr>
+<td>二值化</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/二值化.jpg"></td>
+<td></td>
+</tr>
+
+<tr>
+<td>膨胀腐蚀</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/膨胀腐蚀.jpg"></td>
+<td></td>
+</tr>
+
+<tr>
+<td>膨胀腐蚀</td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/膨胀腐蚀.jpg"></td>
+<td></td>
+</tr>
+
 </table>
 <br>
 
