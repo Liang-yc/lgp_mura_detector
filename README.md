@@ -11,14 +11,14 @@
 <thead><tr><th> </th><th>图像</th><th>说明</th></tr></thead>
         <tr>
             <td>输入</td>
-            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
-            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/white_plate.JPG" ></a></td>
+            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/gt1.JPG" ></a></td>
+            <td></a></td>
         </tr>
  
  
  <tr>
 <td>裁剪</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/均衡化.jpg"></td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/1.BMP"></td>
 <td></td>
 </tr>
 
