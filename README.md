@@ -36,7 +36,7 @@
 
 <tr>
 <td>膨胀腐蚀</td>
-<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/膨胀腐蚀.jpg"></td>
+<td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/blob/master/%E8%86%A8%E8%83%80%E8%85%90%E8%9A%80.jpg"></td>
 <td>形态学操作</td>
 </tr>
 
