@@ -19,13 +19,13 @@
  <tr>
 <td>裁剪</td>
 <td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/lgp_mura_detector/blob/master/1.BMP"></td>
-<td></td>
+<td>裁掉了部分背景，保留导光板部分。（当时手动裁了）</td>
 </tr>
 
  <tr>
 <td>直方图均衡化</td>
 <td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E5%9D%87%E8%A1%A1%E5%8C%96.jpg"></td>
-<td></td>
+<td>此时可以较为容易地看到需要检测的那条曲线。</td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@
 <tr>
 <td>膨胀腐蚀</td>
 <td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/tree/master/lgp_mura_detector/膨胀腐蚀.jpg"></td>
-<td></td>
+<td>形态学操作</td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <tr>
 <td>输出</td>
 <td><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/lgp_mura_detector/%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C.jpg"></td>
-<td></td>
+<td>图中有颜色部分即为检测到的缺陷部分</td>
 </tr>
 
 </table>
@@ -66,3 +66,7 @@
 -------
 1.硬件环境：Windows 7x64，i3处理器；
 2.软件环境：VS2013, openCV 3.0
+
+# To Do
+-------
+有空在学习下Halcon。目前Halcon 1.2的mura detector的例子不能正常检测出缺陷。
